@@ -1,6 +1,6 @@
 # FastLimiter
 
-[![PyPI version](https://badge.fury.io/py/fastlimiter.svg)](https://badge.fury.io/py/fastlimiter)
+[![PyPI version](https://badge.fury.io/py/fastlimiter.svg)](https://pypi.org/project/fastlimiter/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A fast and flexible token bucket rate limiter for FastAPI applications.
